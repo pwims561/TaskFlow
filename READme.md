@@ -1,7 +1,7 @@
 # TaskFlow
 **A Tiered Planner Web Application**  
 Built by **Team #10** — Kennesaw State University  
-*(Project Manager: Princess Wims)*
+*(Project Manager: Princess Wims, Frontend 1: Cole Williams, Frontend 2: Michael Youmans, Backend 1: Michael Woodall, Backend 2: Julian Williams, QA/Tester: Aaron Yang)*
 
 ## Overview
 TaskFlow is a web-based planner application designed to help users organize tasks efficiently by priority level and deadline urgency. It introduces a three-tier task system (Low, Medium, High) and a “What’s Next?” suggestion engine to guide users toward their most important tasks.
