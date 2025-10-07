@@ -1,0 +1,17 @@
+# Node / Next / Vercel
+node_modules/
+.next/
+dist/
+out/
+.vercel/
+coverage/
+
+# Environment and logs
+.env
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
