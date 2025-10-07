@@ -1,29 +1,29 @@
-# 🗂️ TaskFlow
+# TaskFlow
 **A Tiered Planner Web Application**  
 Built by **Team #10** — Kennesaw State University  
 *(Project Manager: Princess Wims)*
 
-## 🌟 Overview
+## Overview
 TaskFlow is a web-based planner application designed to help users organize tasks efficiently by priority level and deadline urgency. It introduces a three-tier task system (Low, Medium, High) and a “What’s Next?” suggestion engine to guide users toward their most important tasks.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Frontend:** React, Next.js  
 - **Backend:** Supabase (Auth, Postgres, Edge Functions)  
 - **Hosting:** Vercel  
 - **Collaboration:** GitHub, Figma, GroupMe  
 - **Testing:** Jest / Playwright (planned)
 
-## 🧩 Major Features (MVP)
-✅ CRUD planners & tasks  
-✅ Priority tiers (Low / Med / High) w/ color coding  
-✅ Deadlines, notes, categories  
-✅ Completed Tasks Sidebar  
-✅ “What’s Next?” suggestion (weighted score)  
-✅ Dark/Light mode  
-✅ Help button  
-✅ Auth via Supabase  
+## Major Features (MVP)
+-CRUD planners & tasks  
+-Priority tiers (Low / Med / High) w/ color coding  
+-Deadlines, notes, categories  
+-Completed Tasks Sidebar  
+-“What’s Next?” suggestion (weighted score)  
+-Dark/Light mode  
+-Help button  
+-Auth via Supabase  
 
-## 👥 Team Members
+## Team Members
 | Name | Role | Key Skills |
 |------|------|------------|
 | **Princess Wims** | Project Manager / Lead | Agile PM, coordination, GitHub, documentation |
@@ -33,7 +33,7 @@ TaskFlow is a web-based planner application designed to help users organize task
 | **Julian Williams** | Backend 2 (Data & Logic, Security) | SQL, Edge Functions, validation, security |
 | **Aaron Yang** | QA / Tester | Unit testing, integration, debugging, responsiveness |
 
-## 🧠 Core Logic Highlight
+## Core Logic Highlight
 ```js
 
 git clone https://github.com/pwims561/TaskFlow.git
@@ -44,7 +44,7 @@ npm run dev
 
 ---
 
-### ✅ Option 2 — Edit Locally (in your computer)
+### Option 2 — Edit Locally (in your computer)
 If you prefer doing it in Command Prompt:
 ```cmd
 notepad README.md
